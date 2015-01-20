@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="flume_manage:war">
+    <output-path>$PROJECT_DIR$/flume_manage/target</output-path>
+    <root id="archive" name="flume_manage.war">
+      <element id="artifact" artifact-name="flume_manage:war exploded" />
+    </root>
+  </artifact>
+</component>
